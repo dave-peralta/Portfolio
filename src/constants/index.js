@@ -34,7 +34,7 @@ export const EXPERIENCES = [
 
 export const PROJECTS = [
   {
-    title: "E-Commerce Website",
+    title: "Personal Finance Tracker Application",
     image: project1,
     description:
       "A Java-based application designed for managing personal finances. Key features include user authentication, finance dashboard, income and expense management, and budgeting.",
