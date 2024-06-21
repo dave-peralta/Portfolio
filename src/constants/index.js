@@ -10,32 +10,25 @@ export const ABOUT_TEXT = `I'm a 24 year old undergraduate student from the Univ
 
 export const EXPERIENCES = [
   {
-    year: "2023 - Present",
-    role: "Senior Full Stack Developer",
-    company: "Google Inc.",
-    description: `Led a team in developing and maintaining web applications using JavaScript, React.js, and Node.js. Implemented RESTful APIs and integrated with MongoDB databases. Collaborated with stakeholders to define project requirements and timelines.`,
-    technologies: ["Javascript", "React.js", "Next.js", "mongoDB"],
+    year: "June 2024 - Present",
+    role: "Web Developer Intern",
+    company: "Timefree Innovations, Inc.",
+    description: `Coming Soon`,
+    technologies: ["Angular", "GraphQL", "C#", "Azure"],
   },
   {
-    year: "2022 - 2023",
-    role: "Frontend Developer",
-    company: "Adobe",
-    description: `Designed and developed user interfaces for web applications using Next.js and React. Worked closely with backend developers to integrate frontend components with Node.js APIs. Implemented responsive designs and optimized frontend performance.`,
-    technologies: ["HTML", "CSS", "Vue.js", "mySQL"],
+    year: "Aug 2021 - Mar 2023",
+    role: "Technology Consultant",
+    company: "Razza Consulting Group, Inc.",
+    description: `Worked as a consultant providing Web & Mobile Development services. Developed three websites in WordPress from the ground up and assisted in development of over eight other websites. Worked with a team and utilize Agile frameworks for fast delivery and continuous improvement of our products.`,
+    technologies: ["WordPress", "AWS", "SiteGround"],
   },
   {
-    year: "2021 - 2022",
-    role: "Full Stack Developer",
-    company: "Facebook",
-    description: `Developed and maintained web applications using JavaScript, React.js, and Node.js. Designed and implemented RESTful APIs for data communication. Collaborated with cross-functional teams to deliver high-quality software products on schedule.`,
-    technologies: ["Python", "Svelte", "Three.js", "Postgres"],
-  },
-  {
-    year: "2020 - 2021",
-    role: "Software Engineer",
-    company: "Paypal",
-    description: `Contributed to the development of web applications using JavaScript, React.js, and Node.js. Managed databases and implemented data storage solutions using MongoDB. Worked closely with product managers to prioritize features and enhancements.`,
-    technologies: ["Ruby", "Rails", "PHP", "Sqlite"],
+    year: "June 2020 - June 2021",
+    role: "Java Developer",
+    company: "Springboardbiz Solutions",
+    description: `Contributed in the development and maintenance of a Human Capital Information System. Developed RESTful web service endpoints using Springboot and worked on the front-end layer using Angular`,
+    technologies: ["Java", "Springboot", "Angular"],
   },
 ];
 
@@ -44,34 +37,13 @@ export const PROJECTS = [
     title: "E-Commerce Website",
     image: project1,
     description:
-      "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
-    technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
-  },
-  {
-    title: "Task Management App",
-    image: project2,
-    description:
-      "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
-    technologies: ["HTML", "CSS", "Angular", "Firebase"],
-  },
-  {
-    title: "Portfolio Website",
-    image: project3,
-    description:
-      "A personal portfolio website showcasing projects, skills, and contact information.",
-    technologies: ["HTML", "CSS", "React", "Bootstrap"],
-  },
-  {
-    title: "Blogging Platform",
-    image: project4,
-    description:
-      "A platform for creating and publishing blog posts, with features like rich text editing, commenting, and user profiles.",
-    technologies: ["HTML", "CSS", "Vue.js", "Express", "mySQL"],
+      "A Java-based application designed for managing personal finances. Key features include user authentication, finance dashboard, income and expense management, and budgeting.",
+    technologies: ["Java", "Springboot", "React", "PosgreSQL"],
   },
 ];
 
 export const CONTACT = {
-  address: "767 Fifth Avenue, New York, NY 10153 ",
-  phoneNo: "+12 4555 666 00 ",
-  email: "me@example.com",
+  address: "Quezon City, NCR, Philippines",
+  phoneNo: "+639279118450",
+  email: "techdotdcp@gmail.com",
 };
